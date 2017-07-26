@@ -57,7 +57,7 @@ namespace BasicsCSharpWithLINQ
                 {
                     Console.WriteLine("\nSelecione uma nova opção:");
                     optionSelected = ConsoleRead();
-                }
+                } 
 
             }
 
